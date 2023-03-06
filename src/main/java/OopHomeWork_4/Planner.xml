@@ -1,0 +1,53 @@
+<reg>
+
+<xml>
+<Task>
+<id>1</id>
+<Subject>Купить ipad</Subject>
+<Author>Олег</Author>
+<Adding time>10:55</Adding time>
+<Adding date>24:02:2023</Adding date>
+<Deadline>24.02</Deadline>
+<Priority>наивысший приоритет</Priority>
+</Task></xml>
+<xml>
+<Task>
+<id>2</id>
+<Subject>Задача 1</Subject>
+<Author>Олег</Author>
+<Adding time>10:55</Adding time>
+<Adding date>24:02:2023</Adding date>
+<Deadline>без ограничений</Deadline>
+<Priority>приоритет не установлен</Priority>
+</Task></xml>
+<xml>
+<Task>
+<id>3</id>
+<Subject>Пригласить друзей</Subject>
+<Author>Олег</Author>
+<Adding time>11:01</Adding time>
+<Adding date>24:02:2023</Adding date>
+<Deadline>24.02</Deadline>
+<Priority>наивысший приоритет</Priority>
+</Task></xml>
+<xml>
+<Task>
+<id>4</id>
+<Subject>Купить подарки</Subject>
+<Author>Олег</Author>
+<Adding time>11:01</Adding time>
+<Adding date>24:02:2023</Adding date>
+<Deadline>24.02</Deadline>
+<Priority>приоритет низкий</Priority>
+</Task></xml>
+<xml>
+<Task>
+<id>5</id>
+<Subject>Приготовить сюрприз</Subject>
+<Author>Олег</Author>
+<Adding time>11:01</Adding time>
+<Adding date>24:02:2023</Adding date>
+<Deadline>24.02</Deadline>
+<Priority>средний приоритет</Priority>
+</Task></xml>
+</reg>

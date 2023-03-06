@@ -1,0 +1,50 @@
+{
+"id" : 1, {
+"Task":Купить "ipad",
+"author":"Олег",
+"adding time":"10:55",
+"adding date":"24:02:2023",
+"deadline":"24.02"
+"priority":"наивысший приоритет"
+}
+}
+{
+"id" : 2, {
+"Task":Задача 1,
+"author":"неизвестный",
+"adding time":"10:55"
+"adding date":"24:02:2023"
+"deadline":"без ограничений"
+"priority":"приоритет не установлен"
+}
+}
+{
+"id" : 3, {
+"Task":Пригласить друзей,
+"author":"Олег",
+"adding time":"10:55"
+"adding date":"24:02:2023"
+"deadline":"28.02"
+"priority":"наивысший приоритет"
+}
+}
+{
+"id" : 4, {
+"Task":Купить подарки,
+"author":"Олег",
+"adding time":"10:55"
+"adding date":"24:02:2023"
+"deadline":"28.02"
+"priority":"приоритет низкий"
+}
+}
+{
+"id" : 5, {
+"Task":Приготовить сюрприз,
+"author":"Олег",
+"adding time":"10:55"
+"adding date":"24:02:2023"
+"deadline":"28.02"
+"priority":"средний приоритет"
+}
+}
